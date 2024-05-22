@@ -1,4 +1,6 @@
- Neste desafio você terá que usar o que aprendemos com Multithreading e APIs para buscar o resultado mais rápido entre duas APIs distintas.
+Curso Pós graduação Go-Expert
+
+Neste desafio você terá que usar o que aprendemos com Multithreading e APIs para buscar o resultado mais rápido entre duas APIs distintas.
 
 As duas requisições serão feitas simultaneamente para as seguintes APIs:
 
